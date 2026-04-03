@@ -1,0 +1,50 @@
+{
+    "top_prediction": {
+        "label": "PAPER",
+        "confidence": 0.4596,
+        "category": "bio"
+    },
+    "predictions": [
+        {
+            "label": "PAPER",
+            "confidence": 0.4596,
+            "category": "bio",
+            "index": 4
+        },
+        {
+            "label": "PAPER",
+            "confidence": 0.4215,
+            "category": "bio",
+            "index": 4
+        },
+        {
+            "label": "PAPER",
+            "confidence": 0.2702,
+            "category": "bio",
+            "index": 4
+        },
+        {
+            "label": "PAPER",
+            "confidence": 0.2598,
+            "category": "bio",
+            "index": 4
+        },
+        {
+            "label": "PAPER",
+            "confidence": 0.1178,
+            "category": "bio",
+            "index": 4
+        }
+    ],
+    "summary": {
+        "total_detections": 5,
+        "bio_count": 5,
+        "non_bio_count": 0,
+        "bio_percentage": 100.0,
+        "non_bio_percentage": 0.0
+    },
+    "id": "f904f928-791c-499d-97b0-104a09b53468",
+    "created_at": "2026-04-03T16:48:00.334280",
+    "status": "Disposed",
+    "location": "London"
+}

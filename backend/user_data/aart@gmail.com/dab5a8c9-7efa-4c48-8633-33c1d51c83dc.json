@@ -1,0 +1,38 @@
+{
+    "top_prediction": {
+        "label": "PAPER",
+        "confidence": 0.5155,
+        "category": "bio"
+    },
+    "predictions": [
+        {
+            "label": "PAPER",
+            "confidence": 0.5155,
+            "category": "bio",
+            "index": 4
+        },
+        {
+            "label": "PAPER",
+            "confidence": 0.1527,
+            "category": "bio",
+            "index": 4
+        },
+        {
+            "label": "PAPER",
+            "confidence": 0.1345,
+            "category": "bio",
+            "index": 4
+        }
+    ],
+    "summary": {
+        "total_detections": 3,
+        "bio_count": 3,
+        "non_bio_count": 0,
+        "bio_percentage": 100.0,
+        "non_bio_percentage": 0.0
+    },
+    "id": "dab5a8c9-7efa-4c48-8633-33c1d51c83dc",
+    "created_at": "2026-04-03T15:49:10.995674",
+    "location": "uk",
+    "status": "Disposed"
+}
